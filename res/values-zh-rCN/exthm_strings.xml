@@ -18,18 +18,9 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <string name="exthmui_settings_title">exTHmUI 设置</string>
-    <string name="exthmui_settings_summary">个性化你的exTHmUI</string>
+    <string name="exthmui_settings_summary">个性化你的 exTHmUI</string>
 
     <!-- Categories -->
-    <string name="button_title">按键</string>
-    <string name="lockscreen_title">锁屏</string>
-    <string name="misc_title">杂项</string>
-    <string name="navbar_title">导航栏</string>
-    <string name="notifications_title">通知</string>
-    <string name="quicksettings_title">快速设置</string>
-    <string name="sound_title">声音</string>
-    <string name="statusbar_title">状态栏</string>
-    <string name="ui_title">用户界面</string>
     <string name="gaming_title">游戏模式</string>
 
     <!-- General strings -->
