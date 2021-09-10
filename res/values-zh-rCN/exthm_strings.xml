@@ -91,4 +91,7 @@
     <string name="gaming_mode_danmaku_blacklist">黑名单</string>
     <string name="gaming_mode_menu_opacity_title">菜单不透明级别</string>
 
+    <string name="gaming_mode_use_menu_overlay_title">显示菜单覆盖</string>
+    <string name="gaming_mode_use_menu_overlay_summary">当游戏运行时显示菜单覆盖。如果禁用此选项，某些游戏模式功能将被禁用，例如弹幕通知</string>
+
 </resources>
