@@ -29,16 +29,6 @@
     <string name="cancel">Cancel</string>
     <string name="save">Save</string>
 
-    <!-- Color Picker -->
-    <string name="dialog_color_picker">Color Picker</string>
-    <string name="press_color_to_apply">Press on color below to apply</string>
-    <string name="arrow_right" translatable="false">→</string>
-    <string name="arrow_down" translatable="false">↓</string>
-    <string name="hex">Hex:</string>
-    <string name="hex_hint">#ff000000</string>
-    <string name="set">Set</string>
-    <string name="color_default">Default</string>
-
     <!-- Custom seekbar -->
     <string name="custom_seekbar_value">Value: <xliff:g id="v">%s</xliff:g></string>
     <string name="custom_seekbar_default_value">by default</string>
@@ -76,7 +66,6 @@
     <string name="gaming_mode_auto_answer_call_summary">Answer calls automatically in the game and hands free when no headphones connected</string>
 
     <string name="gaming_mode_prevent_accidental_touch">prevent accidental touch</string>
-    <string name="gaming_mode_disable_hw_keys_title">Disable hardware keys</string>
     <string name="gaming_mode_disable_gesture_title">Disable gestures</string>
 
     <string name="gaming_mode_apps">Game list</string>

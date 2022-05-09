@@ -29,14 +29,6 @@
     <string name="cancel">取消</string>
     <string name="save">保存</string>
 
-    <!-- Color Picker -->
-    <string name="dialog_color_picker">颜色选择器</string>
-    <string name="press_color_to_apply">点选以应用下列颜色</string>
-    <string name="hex">十六进制：</string>
-    <string name="hex_hint">#ff000000</string>
-    <string name="set">设置</string>
-    <string name="color_default">默认</string>
-
     <!-- Custom seekbar -->
     <string name="custom_seekbar_value">值: <xliff:g id="v">%s</xliff:g></string>
     <string name="custom_seekbar_default_value">默认</string>
@@ -74,7 +66,6 @@
     <string name="gaming_mode_auto_answer_call_summary">在游戏中自动接听电话，并在未连接耳机的情况下免提</string>
 
     <string name="gaming_mode_prevent_accidental_touch">防误触</string>
-    <string name="gaming_mode_disable_hw_keys_title">禁用物理按键</string>
     <string name="gaming_mode_disable_gesture_title">禁用手势</string>
 
     <string name="gaming_mode_apps">游戏列表</string>
